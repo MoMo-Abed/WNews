@@ -1,2 +1,2 @@
 # WNews
-![](gif.gif)
+![](View.gif)
